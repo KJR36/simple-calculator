@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyCalcutor</string>
+    <string name="c">C</string>
+    <string name="open_bracket">(</string>
+    <string name="clossed_bracket">)</string>
+    <string name="divide">/</string>
+</resources>
